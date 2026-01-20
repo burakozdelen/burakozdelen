@@ -1,32 +1,34 @@
-# Merhaba, ben Burak Özdelen! 👋
+# Hi, I'm Burak Özdelen! 👋
 
-Teknolojiye meraklı bir yazılım geliştiriciyim.
+I am a developer focusing on software development processes, with a keen interest in Artificial Intelligence and Network Security. I place Clean Code principles at the heart of my projects.
 
 ---
 
-## 🌐 Sosyal Medya ve Blog
+## 🌐 Social Media & Blog
 
-Benimle bağlantı kurmak ve yazılarımı okumak için:
+To connect with me and check out my technical articles:
 
 <a href="https://www.linkedin.com/in/burakozdelen/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> &nbsp;
 <a href="https://burakozdelen.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog" height="30"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 
 ---
 
-## 🛠️ Yetenekler ve İlgi Alanları
+## 🛠️ Skills & Focus Areas
 
-Çalıştığım teknolojiler ve odaklandığım alanlar:
+### 💻 Technologies & Operating Systems
 
-### 💻 Kullandığım Teknolojiler
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+### 🚀 Software Development & Vision
 
+<img src="https://img.shields.io/badge/Software%20Development-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Software Development" /> <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white" alt="AI" /> <img src="https://img.shields.io/badge/Clean%20Code-%23000000.svg?style=for-the-badge&logo=probot&logoColor=white" alt="Clean Code" />
 
-### 🛡️ İlgi Alanlarım
+### 🛡️ Network & Cyber Security
 
-<img src="https://img.shields.io/badge/Network-%230077B5.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-<img src="https://img.shields.io/badge/Cyber%20Security-%23FF0000.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security" />
+<img src="https://img.shields.io/badge/Network-%230077B5.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /> <img src="https://img.shields.io/badge/Cyber%20Security-%23FF0000.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cyber Security" />
+
+---
